@@ -1,10 +1,10 @@
 
 ### Hello! I'm Jose Henrique
 ##
-I'm passionate about solving problems, I'm always learning more, and I love challenges. 🚀
+I really like games, that's where my interest in programming comes from... Knowing how they are created, how data linked to an account is secured... 🚀
 
-- 📌 From Balsas - MA
-- ✨ Always looking for new knowledge!
+- 📌 I'm from Balsas - MA
+- ✨ Always looking for new challenges!
 ##
 
 <div align="left">
@@ -14,7 +14,7 @@ I'm passionate about solving problems, I'm always learning more, and I love chal
 </div>
   
   ### Favorite technologies:
-<p align="left">
+<div align="left">
   
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" title="REACT" width="40" height="40"/></code>
 <code><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" title="FLUTTER" width="40" height="40"/></code>
@@ -31,4 +31,4 @@ I'm passionate about solving problems, I'm always learning more, and I love chal
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MYSQL" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" title="POSTGRESQL" width="40" height="40"/></code>
 <code><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" title="UNITY" width="40" height="40"/></code>
-</p>
+</div>
