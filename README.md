@@ -2,7 +2,7 @@
 
 # Hey 👋
 
-My name is Jose Henrique I am 21 years old, I started programming at 20 years old, and I am from Brazil. 🇧🇷 
+My name is Jose Henrique I am 22 years old, I started programming at 20 years old, and I am from Brazil. 🇧🇷 
 
 I'm passionate about solving problems, I'm always learning more, and I love challenges. 🚀
 
