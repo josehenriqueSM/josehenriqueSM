@@ -16,14 +16,9 @@ I'm passionate about solving problems, I'm always learning more, and I love chal
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CSS3" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" title="DOCKER" width="40" height="40"/></code>
 <code><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" title="FIGMA" width="40" height="40"/></code>
 <code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="GIT" width="40" height="40"/></code>
-
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="LINUX" width="40" height="40"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MYSQL" width="40" height="40"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" title="POSTGRESQL" width="40" height="40"/></code>
-<code><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="POSTMAN" width="40" height="40"/></code>
 </p>
 
 <p align="left">
