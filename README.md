@@ -31,7 +31,6 @@ I'm passionate about solving problems, I'm always learning more, and I love chal
 
 <p align="left">
     <code><img height="190em" src="https://github-readme-stats.vercel.app/api?username=josehenriqueSM&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/></code>
-  <code><img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josehenriqueSM&layout=compact&langs_count=16&theme=dark"/></code>
 </p>
 
 <!-- ![Snake animation](https://github.com/josehenriqueSM/josehenriqueSM/blob/output/github-contribution-grid-snake.svg) -->
